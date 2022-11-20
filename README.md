@@ -1,3 +1,3 @@
 # Business-Website-Creative-Agency-
 
-![](Preview.png)
+![](websit/Preview.png)
